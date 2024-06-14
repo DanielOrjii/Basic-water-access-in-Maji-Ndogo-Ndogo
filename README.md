@@ -1,19 +1,37 @@
 # Maji Ndogo Basic Access to Water
-I conducted a comprehensive analysis to assess the current state of water supply in Maji Ndogo and identify areas needing improvement. Implement data-driven solutions to enhance water access for all residents. The dashboard aims to promote transparency in revenue usage, track expenses against the budget over time, and eliminate fund wastage.
 
+**Project Overview**
+
+This is a comprehensive analysis to assess the current state of water supply in Maji Ndogo and identify areas needing improvement and also implement data-driven solutions to enhance water access for all residents. The dashboard aims to promote transparency in revenue usage, track expenses against the budget over time, and eliminate fund wastage. The dataset used was provided by ExploreAI for my final project. 
+
+**Data Source**
+1. CSV file: file:///C:/Users/HP/Downloads/Md_summary%20(1).csv
+
+**DA Technical Skills**
+
+- Data Ingestion
+- Data Assessment
+- Data Analysis
+- Data Visualization
+  
 **Analysis Process:**
 
-1. **Data Collection:**
+1. **Data Ingestion:**
    - Gather detailed information on current water sources, including wells, public taps and taps in homes.
    - Collect data on water availability, quality, and distribution efficiency.
 
-2. **Needs Assessment:**
+2. **Data Assessment:**
+   - Ensured consistent column names and data types with each columns.
+   - Identified and resolved errors in our table to ensure data accuracy and integrity.
    - Identify areas within Maji Ndogo that lack adequate access to clean water.
    - Determine the population affected and the specific challenges they face.
 
-3. **Data Analysis:**
+4. **Data Analysis:**
    - Analyze the collected data to pinpoint gaps in the water supply network.
-   - Use statistical tools and geographic information systems (GIS) to visualize areas of deficiency.
+   - Utilized DAX expressions to calculate various measures, including cumulative cost, percent progress, number of lives improved, and the population with basic access to water.
+
+5. **Data Visualization:***
+    -Built a Power BI dashboard to effectively visualize insights, track project progress, and monitor for budget mishandling.
 
 **Findings:**
 - Several regions in Maji Ndogo lack reliable access to clean water.
@@ -38,3 +56,8 @@ I conducted a comprehensive analysis to assess the current state of water supply
 - Improved access to clean water for all residents of Maji Ndogo.
 - Enhanced reliability and efficiency of the water supply network.
 - Data-driven insights facilitating informed decision-making and resource allocation.
+
+**Conclusion:**
+
+The water crisis in Maji Ndogo has intensified due to corruption and the mismanagement of public funds. This project aims to revitalize the water situation by constructing and upgrading water infrastructure in the community, thereby enhancing basic access to clean water for the majority of the population.
+
