@@ -32,6 +32,7 @@ This is a comprehensive analysis to assess the current state of water supply in 
 
 5. **Data Visualization:***
     -Built a Power BI dashboard to effectively visualize insights, track project progress, and monitor for budget mishandling.
+
 Link to check out Power BI dashboard- https://app.powerbi.com/view?r=eyJrIjoiNTE4MmFjYTgtY2IzZS00YjJhLWEzNzAtYzc5YTU0YTRmOTgzIiwidCI6Ijk0OTg2MDlmLTAxNWMtNDgwMS05MjA4LWNiMzdjYWFkMzc1YSIsImMiOjZ9
 
 **Findings:**
